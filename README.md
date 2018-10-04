@@ -1,9 +1,11 @@
-# FavouriteAnime-Hacktoberfest
+# :heart_eyes: FavouriteAnime-Hacktoberfest :heart:
 
 
 
+###### Registering here: https://hacktoberfest.digitalocean.com/
 
-## Steps for Contributing:
+
+## :black_nib: Steps for Contributing: 
 
 1. [Star and Fork this repository](https://github.com/satya-vinay/FavoriteAnime-Hacktoberfest.git).
 
@@ -18,7 +20,7 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 4. Create a pull request
 
 
-# Anime List
+# :ledger: Anime List 
 
 * Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - India
 * Death Note - [Ardlan Khalili](https://github.com/ardlank) - USA

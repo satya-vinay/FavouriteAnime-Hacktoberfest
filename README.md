@@ -25,3 +25,6 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - India
 * Death Note - [Ardlan Khalili](https://github.com/ardlank) - USA
 * Gurren lagann - [Lauden laruto](https://github.com/Laudenlaruto/) - France
+* Dragon Ball Z - [Pranav Bhardwaj](https://github.com/pranav1999) - India
+
+

@@ -20,5 +20,5 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 
 # Anime List
 
-Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - India
-Death Note - [Ardlan Khalili](https://github.com/ardlank) - USA
+* Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - India
+* Death Note - [Ardlan Khalili](https://github.com/ardlank) - USA

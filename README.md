@@ -23,3 +23,4 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 # :ledger: Anime List 
 
 Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - India
+gurren lagann - [Lauden laruto](https://github.com/Laudenlaruto/) - France

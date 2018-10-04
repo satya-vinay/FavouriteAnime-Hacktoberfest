@@ -1,4 +1,4 @@
-# FavoriteAnime-Hacktoberfest
+# FavouriteAnime-Hacktoberfest
 
 
 

@@ -1,6 +1,7 @@
 # :heart_eyes: FavouriteAnime-Hacktoberfest :heart:
-
-
+![HacktoberFest](https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2018/10/hacktoberfest-2018.jpg)
+## What is Hacktoberfest'18?
+Hacktoberfest is a global event which motivates open source contributors to boost up their contribution. As well as it is a month-long celebration of open source software in partnership with GitHub. In addition to that by contributing to this challenge you can earn a limited edition T-Shirt.
 
 ###### Registering here: https://hacktoberfest.digitalocean.com/
 

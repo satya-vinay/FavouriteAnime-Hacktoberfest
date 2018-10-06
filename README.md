@@ -27,6 +27,7 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Death Note - [Ardlan Khalili](https://github.com/ardlank) - USA
 * Gurren lagann - [Lauden laruto](https://github.com/Laudenlaruto/) - France
 * Dragon Ball Z - [Pranav Bhardwaj](https://github.com/pranav1999) - India
+* Akira - [Mike](https://github.com/savagemike) - USA
 * Girls und Panzer - [Juanjo Salvador](https://github.com/juanjosalvador) - Spain
 * Naruto: Shippuden- [Jithin Sha](https://github.com/waterloo) - India
 * Black Lagoon - [Dan Young](https://github.com/ytmnd) - USA

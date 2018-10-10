@@ -33,5 +33,6 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Naruto: Shippuden- [Jithin Sha](https://github.com/waterloo) - India
 * Black Lagoon - [Dan Young](https://github.com/ytmnd) - USA
 * Steins;Gate - [Olgierd](https://github.com/olgierdg) - Germany
+* Tokyo Ghoul - [Stark](https://github.com/ministarkblaze01) - India
 
 

@@ -35,4 +35,3 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Steins;Gate - [Olgierd](https://github.com/olgierdg) - Germany
 * Shingeki no Kyojin - [Anantha Vijay](https://github.com/ananthavijay) - India
 * Cowboy Bebop - [Matthew Francis](https://github.com/mafro28) - Scotland
-* Kaichou wa Maid-Sama - [Aimee Tacchi](https://github.com/darkxangel15) - England

@@ -34,5 +34,6 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Black Lagoon - [Dan Young](https://github.com/ytmnd) - USA
 * Steins;Gate - [Olgierd](https://github.com/olgierdg) - Germany
 * Shingeki no Kyojin - [Anantha Vijay](https://github.com/ananthavijay) - India
+* Cowboy Bebop - [Matthew Francis](https://github.com/mafro28) - Scotland
 
 

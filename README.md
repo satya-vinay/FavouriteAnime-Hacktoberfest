@@ -36,5 +36,6 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Shingeki no Kyojin - [Anantha Vijay](https://github.com/ananthavijay) - India
 * Cowboy Bebop - [Matthew Francis](https://github.com/mafro28) - Scotland
 * Golden Boy - [Green Sticky](https://github.com/greensticky) - USA
+* Nichijou - [Jonathan Packer](https://github.com/Egregious-Egg) - USA
 
 

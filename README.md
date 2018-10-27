@@ -34,5 +34,10 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Black Lagoon - [Dan Young](https://github.com/ytmnd) - USA
 * Steins;Gate - [Olgierd](https://github.com/olgierdg) - Germany
 * Tokyo Ghoul - [Stark](https://github.com/ministarkblaze01) - India
-
-
+* Shingeki no Kyojin - [Anantha Vijay](https://github.com/ananthavijay) - India
+* Cowboy Bebop - [Matthew Francis](https://github.com/mafro28) - Scotland
+* Kaichou wa Maid-sama - [Aimee Tacchi](https://github.com/darkxangel84) - England
+* Golden Boy - [Green Sticky](https://github.com/greensticky) - USA
+* Tokyo Ghoul - [Joseph McKnight](https://github.com/Kowake) - USA
+* Nichijou - [Jonathan Packer](https://github.com/Egregious-Egg) - USA
+* Naruto Shippuden - [Marcelo da Silva](https://github.com/marcelodasilva) - Brazil

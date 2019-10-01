@@ -42,3 +42,4 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Nichijou - [Jonathan Packer](https://github.com/Egregious-Egg) - USA
 * Naruto Shippuden - [Marcelo da Silva](https://github.com/marcelodasilva) - Brazil
 * Fairy Tail - [Pedro Pimentel](https://github.com/pedro5) - Brazil
+* Dr. Slump - [Ismael Martinez Ramos](https://github.com/ismaelmartinez) - Catalunya

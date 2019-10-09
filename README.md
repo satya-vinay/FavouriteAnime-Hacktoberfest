@@ -44,4 +44,4 @@ Example: <b>*Sword Art Online - [Satya Vinay](https://github.com/satya-vinay) - 
 * Fairy Tail - [Pedro Pimentel](https://github.com/pedro5) - Brazil
 * Yamato Nadeshiko Shichi Henge - [Frog Princess](https://github.com/H8ToDoThis) - USA
 * Busou Renkin - [theStaBita](https://github.com/theStaBita) - USA
-
+* Yuzuki Eba-[TanviShetty](https://github.com/tanvi0915)-INDIA
